@@ -8,6 +8,7 @@ Tornadoes are one such class of natural disasters, they can be classified as cyc
 This project aims to do just that. It aims to predict the occurrence of tornadoes by gathering relevant information pertaining to weather forecasts. Once the relevant fields are obtained further screening of data will on the basis of the leading climatic factors that influence the formation of tornadoes.
 
 The four main ingredients which lead to the formation of a tornado are: 
+
 Shear (The changing of wind with height, direction or speed)  
 
 Lift (components that lift an air mass) 
