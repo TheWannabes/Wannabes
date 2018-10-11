@@ -1,7 +1,7 @@
 # Wannabes
 Natural Disaster Management
 
-Idea 1: Tornado Watch  
+Idea: Tornado Watch  
 Natural disasters are the leading cause of death in the world today, claiming mass numbers with every occurrence. Therefore the prevention and detection of natural disasters using modern technology and platforms is vital and in tune with the current progress of humanity. 
 Tornadoes are one such class of natural disasters, they can be classified as cyclones but over landmasses. Reaching speeds of up to 260mph, and having immense destructive power, a tornado can claim up to millions of dollars’ worth of property damage, and leave hundreds more injured. Thus, predicting and managing tornadoes is a very interesting field of study.  
 
