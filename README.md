@@ -1,7 +1,8 @@
 # Wannabes
 Natural Disaster Management
 
-Idea: Carbon Footprint 
+Idea: Carbon Footprint's
+
 Global warming has become one of the world’s most disastrous problem today. Global warming is the leading cause for many natural disasters such as melting of polar ice caps, which leads to floods and the death of many marine organisms. The main cause for global warming is greenhouse gas emissions. Greenhouse gas emission is the total output of greenhouse gas emissions caused by a person, organisation, event or product, and can be measured by calculating the carbon footprint.
 
 The calculation can be done as follows: An individual can input his/ her daily usage of electricity (natural gas, heating oil emissions), transportation (public or private vehicle emissions) or domestic (fridge, AC emissions). Formulas can be used to calculate the carbon emissions from the data input by the user of the app. For example, the electricity, the user can input the electricity bill values throughout the year, then by using the formula, according to ISO 14064:
